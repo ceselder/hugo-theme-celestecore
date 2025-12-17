@@ -7,3 +7,4 @@ A modified version of [nostyleplease](https://github.com/hanwenguo/hugo-theme-no
 ## Main modifications
 * Changed bg color to `#`
 * Added [fira code](https://fonts.google.com/specimen/Fira+Code) as the main font
+* Added reading time for articles
