@@ -59,6 +59,13 @@
   @include theme(#ffffff, #000000, #595959, #3548cf, #8f0075, #dae5ec); // modus-operandi
 }
 
+
+@import url('https://fonts.google.com/css2?family=Fira+Code:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Fira Code', monospace;
+}
+
 body[a="dark"] { @include dark-appearance; }
 body[a="light"] { @include light-appearance; }
 
